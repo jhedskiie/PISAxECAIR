@@ -1,0 +1,221 @@
+{
+  "pooled_READ": {
+    "best_params": {
+      "objective": "reg:squarederror",
+      "eval_metric": "rmse",
+      "tree_method": "hist",
+      "random_state": 42,
+      "n_jobs": 2,
+      "n_estimators": 574,
+      "learning_rate": 0.016738881542579662,
+      "max_depth": 6,
+      "min_child_weight": 6.533353663762797,
+      "subsample": 0.8447411578889518,
+      "colsample_bytree": 0.6557975442608167,
+      "reg_lambda": 0.09212515846231674,
+      "reg_alpha": 0.006789053271698486
+    },
+    "metrics": {
+      "mae": 40.32054468692207,
+      "rmse": 50.641513270179004,
+      "r2": 0.5992095738686376,
+      "n_train": 2352,
+      "n_test": 589,
+      "cv_rmse": 54.873376401552
+    }
+  },
+  "pooled_SCIE": {
+    "best_params": {
+      "objective": "reg:squarederror",
+      "eval_metric": "rmse",
+      "tree_method": "hist",
+      "random_state": 42,
+      "n_jobs": 2,
+      "n_estimators": 574,
+      "learning_rate": 0.016738881542579662,
+      "max_depth": 6,
+      "min_child_weight": 6.533353663762797,
+      "subsample": 0.8447411578889518,
+      "colsample_bytree": 0.6557975442608167,
+      "reg_lambda": 0.09212515846231674,
+      "reg_alpha": 0.006789053271698486
+    },
+    "metrics": {
+      "mae": 36.938776165984976,
+      "rmse": 46.39796232302668,
+      "r2": 0.6218725163725435,
+      "n_train": 2352,
+      "n_test": 589,
+      "cv_rmse": 50.94028249278032
+    }
+  },
+  "pooled_MATH": {
+    "best_params": {
+      "objective": "reg:squarederror",
+      "eval_metric": "rmse",
+      "tree_method": "hist",
+      "random_state": 42,
+      "n_jobs": 2,
+      "n_estimators": 574,
+      "learning_rate": 0.016738881542579662,
+      "max_depth": 6,
+      "min_child_weight": 6.533353663762797,
+      "subsample": 0.8447411578889518,
+      "colsample_bytree": 0.6557975442608167,
+      "reg_lambda": 0.09212515846231674,
+      "reg_alpha": 0.006789053271698486
+    },
+    "metrics": {
+      "mae": 39.52616365754336,
+      "rmse": 50.76724893684752,
+      "r2": 0.6341531027558212,
+      "n_train": 2352,
+      "n_test": 589,
+      "cv_rmse": 55.363984545487845
+    }
+  },
+  "2018_READ": {
+    "best_params": {
+      "objective": "reg:squarederror",
+      "random_state": 42,
+      "n_jobs": 2,
+      "n_estimators": 750,
+      "learning_rate": 0.0059562604780309,
+      "max_depth": 10,
+      "subsample": 0.8320457481218804,
+      "colsample_bytree": 0.7366114704534336,
+      "reg_lambda": 4.407984038169241,
+      "min_child_weight": 1.1085122517311703,
+      "gamma": 4.546602010393911,
+      "reg_alpha": 2.587799816000169
+    },
+    "metrics": {
+      "mae": 42.30798947157278,
+      "rmse": 53.33497767698161,
+      "r2": 0.5973663939486011,
+      "n_train": 1028,
+      "n_test": 258,
+      "cv_rmse": 55.169400995227214
+    }
+  },
+  "2018_SCIE": {
+    "best_params": {
+      "objective": "reg:squarederror",
+      "random_state": 42,
+      "n_jobs": 2,
+      "n_estimators": 750,
+      "learning_rate": 0.0059562604780309,
+      "max_depth": 10,
+      "subsample": 0.8320457481218804,
+      "colsample_bytree": 0.7366114704534336,
+      "reg_lambda": 4.407984038169241,
+      "min_child_weight": 1.1085122517311703,
+      "gamma": 4.546602010393911,
+      "reg_alpha": 2.587799816000169
+    },
+    "metrics": {
+      "mae": 37.0601632730665,
+      "rmse": 47.57531835597599,
+      "r2": 0.6082637133538016,
+      "n_train": 1028,
+      "n_test": 258,
+      "cv_rmse": 50.30210065302281
+    }
+  },
+  "2018_MATH": {
+    "best_params": {
+      "objective": "reg:squarederror",
+      "random_state": 42,
+      "n_jobs": 2,
+      "n_estimators": 750,
+      "learning_rate": 0.0059562604780309,
+      "max_depth": 10,
+      "subsample": 0.8320457481218804,
+      "colsample_bytree": 0.7366114704534336,
+      "reg_lambda": 4.407984038169241,
+      "min_child_weight": 1.1085122517311703,
+      "gamma": 4.546602010393911,
+      "reg_alpha": 2.587799816000169
+    },
+    "metrics": {
+      "mae": 42.726014102773384,
+      "rmse": 54.02248373420447,
+      "r2": 0.6162188348665056,
+      "n_train": 1028,
+      "n_test": 258,
+      "cv_rmse": 55.07901073686397
+    }
+  },
+  "2022_READ": {
+    "best_params": {
+      "objective": "reg:squarederror",
+      "random_state": 42,
+      "n_jobs": 2,
+      "n_estimators": 850,
+      "learning_rate": 0.008425396033683951,
+      "max_depth": 9,
+      "subsample": 0.7418481581956126,
+      "colsample_bytree": 0.7876433945605654,
+      "reg_lambda": 2.9967309097101573,
+      "min_child_weight": 3.920673972242136,
+      "gamma": 3.925879806965068,
+      "reg_alpha": 1.9967378215835974
+    },
+    "metrics": {
+      "mae": 40.56571852650834,
+      "rmse": 53.046768052986714,
+      "r2": 0.5322015263493804,
+      "n_train": 1324,
+      "n_test": 331,
+      "cv_rmse": 54.76814080578921
+    }
+  },
+  "2022_SCIE": {
+    "best_params": {
+      "objective": "reg:squarederror",
+      "random_state": 42,
+      "n_jobs": 2,
+      "n_estimators": 750,
+      "learning_rate": 0.0059562604780309,
+      "max_depth": 10,
+      "subsample": 0.8320457481218804,
+      "colsample_bytree": 0.7366114704534336,
+      "reg_lambda": 4.407984038169241,
+      "min_child_weight": 1.1085122517311703,
+      "gamma": 4.546602010393911,
+      "reg_alpha": 2.587799816000169
+    },
+    "metrics": {
+      "mae": 38.27438930146223,
+      "rmse": 50.27483332685908,
+      "r2": 0.5646638728737743,
+      "n_train": 1324,
+      "n_test": 331,
+      "cv_rmse": 51.87750411885175
+    }
+  },
+  "2022_MATH": {
+    "best_params": {
+      "objective": "reg:squarederror",
+      "random_state": 42,
+      "n_jobs": 2,
+      "n_estimators": 850,
+      "learning_rate": 0.008425396033683951,
+      "max_depth": 9,
+      "subsample": 0.7418481581956126,
+      "colsample_bytree": 0.7876433945605654,
+      "reg_lambda": 2.9967309097101573,
+      "min_child_weight": 3.920673972242136,
+      "gamma": 3.925879806965068,
+      "reg_alpha": 1.9967378215835974
+    },
+    "metrics": {
+      "mae": 38.20425612674294,
+      "rmse": 51.62427510850487,
+      "r2": 0.5983181910082991,
+      "n_train": 1324,
+      "n_test": 331,
+      "cv_rmse": 55.58889384628224
+    }
+  }
+}

@@ -1,0 +1,12 @@
+feature,label,lower,upper,integer
+SC061Q01TA,Student Truancy (SC061Q01TA),1.0,4.0,True
+EDU_MAT,Educational Materials (EDU_MAT),1.0,4.0,True
+EDU_INFRA,Infrastructure Constraint (EDU_INFRA),1.0,4.0,True
+DIGI_CAP,Digital Capacity (DIGI_CAP),1.0,4.0,True
+STU_TCH,Student–Teacher Ratio (STU_TCH),2.4172600000000006,44.267294999999876,False
+STU_COMP,Student–Computer Ratio (STU_COMP),0.0,91.97999999999956,False
+TCH_COMP,Teacher–Computer Ratio (TCH_COMP),0.0,61.3983169999996,False
+X_ACTIV,Extracurricular Activities (X_ACTIV),0.0,6.0,True
+PRNT_ENG,Parental Engagement (PRNT_ENG),0.8775000000000004,100.0,False
+SC025Q01NA,Teacher Prof. Dev. (SC025Q01NA),0.0,100.0,False
+SC037Q02TA,External Evaluation (SC037Q02TA),1.0,3.0,True

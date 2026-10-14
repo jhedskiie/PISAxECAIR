@@ -1,0 +1,16 @@
+Variable,READ,SCIE,MATH
+Private School (SC013Q01TA),-19.5116***,-20.5887***,-24.6818***
+External Evaluation (SC037Q02TA),-5.5405***,-6.9869***,-7.6288***
+Student Truancy (SC061Q01TA),-9.9020***,-10.8818***,-10.7964***
+Teacher Prof. Dev. (SC025Q01NA),0.0704***,0.0732***,0.1085***
+Educational Materials (EDU_MAT),-6.2340***,-4.5613***,-5.4501***
+Infrastructure Constraint (EDU_INFRA),-1.1868,-2.0230*,-2.1344*
+Digital Capacity (DIGI_CAP),0.3000,0.1397,-1.7384
+Student–Teacher Ratio (STU_TCH),-0.3266***,-0.5891***,-0.6029***
+Student–Computer Ratio (STU_COMP),-0.1103***,-0.1280***,-0.1100***
+Teacher–Computer Ratio (TCH_COMP),-0.3531***,-0.3348***,-0.3663***
+Extracurricular Activities (X_ACTIV),4.6095***,5.3238***,5.5147***
+Parental Engagement (PRNT_ENG),-0.1887***,-0.2312***,-0.2057***
+"Economic, Social and Cultural Status (mean_ESCS)",57.5421***,51.8014***,59.2295***
+Observations,2939,2939,2939
+R²,0.665,0.669,0.683
